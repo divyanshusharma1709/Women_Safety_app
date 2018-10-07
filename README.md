@@ -1,2 +1,2 @@
-# Women Safery App
+# Women Safety App
 ## What this app does:
